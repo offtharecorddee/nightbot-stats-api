@@ -1,5 +1,5 @@
 {
-  "name": "espn-nightbot-api",
+  "name": "nightbot-stats-api",
   "version": "1.0.0",
   "description": "ESPN stats API for Nightbot",
   "main": "server.js",
